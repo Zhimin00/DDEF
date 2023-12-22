@@ -1,6 +1,6 @@
 # DDEF
 
-![framework](DDEF/framework.png)
+![framework](framework.png)
 
 This work is proposed for Dual-Level Deep Evidential Fusion (DDEF): Integrating Multimodal Information for Enhanced Reliable Decision-Making in Deep Learning. DDEF is accurate, efficient, reliable, scalable, and very simple in design.
 
@@ -13,6 +13,7 @@ This work is proposed for Dual-Level Deep Evidential Fusion (DDEF): Integrating 
 ## Data
 
 You can download SVHN data at http://ufldl.stanford.edu/housenumbers/
+
 Other data can be found in  `/data`
 
 ## Citation
