@@ -1,14 +1,17 @@
 # DDEF
 Dual-level deep evidential fusion
-![framework](/fig1.jpg)
+![framework](/framework.png)
 
 This work is proposed for Dual-Level Deep Evidential Fusion (DDEF): Integrating Multimodal Information for Enhanced Reliable Decision-Making in Deep Learning. DDEF is accurate, efficient, reliable, scalable, and very simple in design.
 
-Codes:
+## Codes:
 'utils.py' defined some shows details of Experiment 1.
 
 'train.py' shows details of Experiment 1 on MNIST-SVHN.
 
+## Data:
+You can download SVHN data at http://ufldl.stanford.edu/housenumbers/
+Other data can be found in  `/data`
 
 ## Citation
 
