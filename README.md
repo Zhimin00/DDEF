@@ -12,7 +12,8 @@ This work is proposed for Dual-Level Deep Evidential Fusion: Integrating Multimo
 
 If you find this repository helpful, please consider citing:
 
-`@article{shao2024dual,
+`
+  @article{shao2024dual,
   title={Dual-level Deep Evidential Fusion: Integrating multimodal information for enhanced reliable decision-making in deep learning},
   author={Shao, Zhimin and Dou, Weibei and Pan, Yu},
   journal={Information Fusion},
@@ -20,4 +21,5 @@ If you find this repository helpful, please consider citing:
   pages={102113},
   year={2024},
   publisher={Elsevier}
-}`
+  }
+`
