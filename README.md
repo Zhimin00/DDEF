@@ -1,5 +1,7 @@
 # DDEF
 Dual-level deep evidential fusion
+![fig1new](https://github.com/Zhimin00/DDEF/assets/56359241/85f73ed6-623c-406b-ab7e-f30528ddfd3d)
+We propose DDEF, a deep fusion framework for multimodal decision-making. DDEF is accurate, efficient, reliable, scalable and very simple in design.
 
 Codes:
 'utils.py' defined some shows details of Experiment 1.
